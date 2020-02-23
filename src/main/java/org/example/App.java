@@ -12,7 +12,7 @@ public class App {
 
     private static final String url = "jdbc:postgresql://localhost:5432/postgres";
     private static final String username = "postgres";
-    private static final String password = "Welcome123";
+    private static final String password = "<Enter your password here>";
 
     public Connection connect() {
         Connection connection = null;
